@@ -1,0 +1,3 @@
+to create a global variable inside a function, we can use global key
+word.
+
